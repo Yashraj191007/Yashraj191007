@@ -207,8 +207,7 @@ A smart agriculture platform combining crop advisory, weather forecasting, marke
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Yashraj191007/Yashraj191007/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub Contribution Snake"/>
-
+<img src="https://raw.githubusercontent.com/Yashraj191007/Yashraj191007/gh-pages/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub Contribution Snake"/>
 </div>
 
 ---
