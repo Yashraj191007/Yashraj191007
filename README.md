@@ -1,324 +1,221 @@
-<!-- ===================== HERO ===================== -->
+<div align="center">
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:BB9AF7,100:7DCFFF&height=220&section=header&text=Yashraj%20Jagtap&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:BB9AF7,50:7AA2F7,100:7DCFFF&height=220&section=header&text=Yashraj%20Jagtap&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:BB9AF7,100:7DCFFF&height=220&section=header&text=Yashraj%20Jagtap&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" alt="Yashraj Jagtap">
-  </picture>
-</p>
+# YASHRAJ JAGTAP
 
-<h1 align="center">Hey there, I'm Yashraj Jagtap 👋</h1>
+### Software Product Engineer · Full-Stack Developer · AI Application Engineer
 
-<p align="center">
-  <a href="https://github.com/Yashraj191007">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=650&lines=Software+Product+Engineering+Student;Full-Stack+Developer;AI+Application+Builder;Backend+%26+API+Developer;Building+Reliable+Software+Products" alt="Typing SVG">
-  </a>
-</p>
+Building reliable software products with modern web technologies and AI.
 
-<p align="center">
-  <a href="https://github.com/Yashraj191007">
-    <img src="https://img.shields.io/github/followers/Yashraj191007?style=for-the-badge&logo=github&label=Followers&color=7AA2F7&labelColor=16161E" alt="GitHub Followers">
-  </a>
-  <a href="https://github.com/Yashraj191007?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Yashraj191007?style=for-the-badge&logo=github&label=Stars&color=BB9AF7&labelColor=16161E" alt="GitHub Stars">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Yashraj191007&style=for-the-badge&color=7DCFFF&label=PROFILE+VIEWS" alt="Profile Views">
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/yashraj-jagtap-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:yashrajjagtap1910@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-BB9AF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<a href="https://github.com/Yashraj191007">
+  <img src="https://img.shields.io/github/followers/Yashraj191007?label=Followers&style=flat&color=7AA2F7&labelColor=16161E" />
+</a>
+<a href="https://github.com/Yashraj191007">
+  <img src="https://komarev.com/ghpvc/?username=Yashraj191007&label=Profile%20Views&color=BB9AF7&style=flat&labelColor=16161E" />
+</a>
+<a href="mailto:yashrajjagtap1910@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-7DCFFF?style=flat&labelColor=16161E" />
+</a>
 
-<br>
+<br/><br/>
 
-<!-- ===================== ABOUT ME ===================== -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Full-Stack+Development;AI+Application+Engineering;Backend+%26+API+Development;Building+Reliable+Software+Products" />
 
-<h2 align="center">💻 About Me</h2>
+</div>
 
-<table align="center">
-<tr>
-<td width="65%" valign="top">
+---
 
-### 👨‍💻 Who I am
+## About Me
 
-I'm a **Software Product Engineering undergraduate** at **MIT ADT University × Kalvium**, focused on building practical software products and solving real-world engineering problems.
+I'm **Yashraj Jagtap**, a Software Product Engineering student focused on building full-stack applications, backend systems, and AI-powered products.
 
-- 🎓 B.Tech in Computer Science & Engineering — Software Product Engineering
-- 🚀 Building full-stack and AI-powered applications
-- 💻 Working with React, Next.js, Node.js, Express.js and TypeScript
-- 🗄️ Building database-driven applications with MongoDB and PostgreSQL
-- 🤖 Exploring AI application development and secure AI integrations
-- 🧪 Interested in testing, debugging, API design and reliable software engineering
-- 🌱 Currently learning system design, DevOps and advanced TypeScript
-- 🏆 Kalvium Internal Hackathon — 1st Place
-- 🏆 Smart India Hackathon 2025 — Team CROP-X
+- 🎓 B.Tech CSE — Software Product Engineering
+- 📈 CGPA: **8.50 / 10**
+- ⚡ Latest SGPA: **9.30 / 10**
+- 🧠 Interested in **Full-Stack Development, AI Engineering & Backend Systems**
+- 🚀 Building projects that combine practical engineering with AI
+- 🏆 **1st Place — Kalvium Internal Hackathon**
+- 🇮🇳 **Smart India Hackathon 2025 — Team CROP-X**
 
-</td>
+---
 
-<td width="35%" align="center" valign="middle">
+## Tech Stack
 
-<img src="https://github.com/Yashraj191007.png" width="240" alt="Yashraj Jagtap">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Software%20Engineering-7AA2F7?style=flat-square" alt="Software Engineering">
-<img src="https://img.shields.io/badge/Full--Stack-BB9AF7?style=flat-square" alt="Full Stack">
-<img src="https://img.shields.io/badge/AI%20Applications-7DCFFF?style=flat-square" alt="AI Applications">
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- ===================== TECH STACK ===================== -->
-
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" alt="Languages">
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css,tailwind" alt="Frontend">
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend">
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" alt="Databases">
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,vercel" alt="Tools and DevOps">
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vitest" alt="Testing">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Google%20Gemini%20API-7AA2F7?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini API">
-  <img src="https://img.shields.io/badge/Cloudinary-BB9AF7?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary">
-  <img src="https://img.shields.io/badge/JWT-7DCFFF?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
-</p>
-
-<br>
-
-<!-- ===================== FEATURED PROJECTS ===================== -->
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">⚡ DisputeX</h3>
-
-<p align="center">
-  <strong>Enterprise Dispute Management Platform</strong>
-</p>
+### Languages
 
 <p>
-A full-stack dispute management platform supporting merchant workflows, evidence management, notifications and dispute lifecycle operations.
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,cpp" />
 </p>
+
+### Frontend
 
 <p>
-<strong>Stack:</strong><br>
-Next.js · TypeScript · Node.js · Prisma · PostgreSQL · Cloudinary
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css,tailwind" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Yashraj191007/S116-0726-Brainrot-Full-Stack-with-Nextjs-and-Cloudinary-DisputeX">
-    <img src="https://img.shields.io/badge/View%20Repository-7AA2F7?style=for-the-badge&logo=github&logoColor=white" alt="DisputeX Repository">
-  </a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🤖 AI CreatorHub</h3>
-
-<p align="center">
-  <strong>AI-Powered Content Management Platform</strong>
-</p>
+### Backend & APIs
 
 <p>
-A full-stack AI content platform integrating Google Gemini for intelligent content generation and creative assistance.
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
+
+`REST APIs` · `JWT` · `API Validation` · `Authentication & Authorization`
+
+### Databases
 
 <p>
-<strong>Stack:</strong><br>
-React · TypeScript · Node.js · Express · MongoDB · PostgreSQL · Prisma · Gemini API
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Yashraj191007/AI-CreatorHub">
-    <img src="https://img.shields.io/badge/View%20Repository-BB9AF7?style=for-the-badge&logo=github&logoColor=white" alt="AI CreatorHub Repository">
-  </a>
-</p>
+`Mongoose` · `MongoDB` · `PostgreSQL` · `Prisma`
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🌾 CROP-X</h3>
-
-<p align="center">
-  <strong>Smart Crop Advisory System</strong>
-</p>
+### AI & Cloud
 
 <p>
-A smart agriculture platform helping farmers make data-informed crop and market decisions through weather forecasting, crop suggestions, market information and community features.
+<img src="https://skillicons.dev/icons?i=docker,github,githubactions,vercel" />
 </p>
+
+`Google Gemini API` · `Cloudinary` · `Render`
+
+### Development Tools
 
 <p>
-<strong>Stack:</strong><br>
-HTML · Tailwind CSS · JavaScript · Weather API · External APIs
+<img src="https://skillicons.dev/icons?i=git,postman,docker" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Yashraj191007/CROP-X">
-    <img src="https://img.shields.io/badge/View%20Repository-7DCFFF?style=for-the-badge&logo=github&logoColor=white" alt="CROP-X Repository">
-  </a>
-</p>
+`Vitest` · `Supertest` · `Swagger`
 
-</td>
+---
 
-<td width="50%" valign="top">
+## Featured Projects
 
-<h3 align="center">🧠 Engineering Focus</h3>
+### 🔹 DisputeX
 
-<p align="center">
-  <img src="https://img.shields.io/badge/REST%20APIs-7AA2F7?style=for-the-badge" alt="REST APIs">
-  <img src="https://img.shields.io/badge/Authentication-BB9AF7?style=for-the-badge" alt="Authentication">
-  <img src="https://img.shields.io/badge/Testing-7DCFFF?style=for-the-badge" alt="Testing">
-</p>
+**Enterprise Dispute Management Platform**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Database%20Design-7AA2F7?style=for-the-badge" alt="Database Design">
-  <img src="https://img.shields.io/badge/API%20Design-BB9AF7?style=for-the-badge" alt="API Design">
-  <img src="https://img.shields.io/badge/Debugging-7DCFFF?style=for-the-badge" alt="Debugging">
-</p>
+A full-stack platform designed around merchant dispute workflows, evidence management, notifications, and dispute lifecycle handling.
 
-<p align="center">
-  Focused on building maintainable, secure and reliable software rather than just prototypes.
-</p>
+**Built with**
 
-</td>
-</tr>
-</table>
+`Next.js` `TypeScript` `Node.js` `Prisma` `PostgreSQL` `Cloudinary`
 
-<br>
+**Key Engineering Work**
 
-<!-- ===================== GITHUB STATS ===================== -->
+- Designed structured dispute management workflows
+- Implemented evidence upload and storage
+- Built notification and escalation workflows
+- Implemented immutable evidence handling
+- Developed backend APIs and database models
 
-<h2 align="center">📊 GitHub Statistics</h2>
+---
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Yashraj191007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=false&count_private=false" alt="Yashraj's GitHub Stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashraj191007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages">
-</p>
+### 🔹 AI CreatorHub
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yashraj191007&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</p>
+**AI-Powered Content Creation Platform**
 
-<br>
+A full-stack application combining AI capabilities with secure content management and user-based access control.
 
-<!-- ===================== ACTIVITY GRAPH ===================== -->
+**Built with**
 
-<h2 align="center">📈 Contribution Activity</h2>
+`React` `TypeScript` `Node.js` `Express.js` `MongoDB` `PostgreSQL` `Prisma` `Google Gemini API`
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashraj191007&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=7dcfff&area=true&hide_border=true" alt="GitHub Activity Graph">
-</p>
+**Key Engineering Work**
 
-<br>
+- Implemented authentication and role-based access control
+- Built secure CRUD APIs
+- Integrated Google Gemini API
+- Added request validation and rate limiting
+- Added automated backend testing
 
-<!-- ===================== SNAKE ===================== -->
+---
 
-<h2 align="center">🐍 Contribution Snake</h2>
+### 🔹 CROP-X
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Yashraj191007/Yashraj191007/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
-</p>
+**Smart Crop Advisory System**
 
-<!--
-GitHub Action required to generate the contribution snake:
+A technology-driven crop advisory platform designed around agricultural information and decision support.
 
-.github/workflows/snake.yml
+**Built with**
 
-name: Generate Snake
+`HTML` `Tailwind CSS` `JavaScript` `External APIs`
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+**Key Features**
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
+- Crop advisory information
+- Weather-based information
+- Market-related information
+- Community-oriented features
 
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+🏆 **Smart India Hackathon 2025 — Team CROP-X**
 
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_DIR: dist
--->
+---
 
-<br>
+## Achievements
 
-<!-- ===================== CONNECT ===================== -->
+<div align="center">
 
-<h2 align="center">🌐 Let's Connect</h2>
+| Achievement | Recognition |
+|:---|:---:|
+| 🥇 Kalvium Internal Hackathon | **1st Place** |
+| 🇮🇳 Smart India Hackathon 2025 | **Team CROP-X** |
 
-<p align="center">
-  <a href="https://linkedin.com/in/yashraj-jagtap-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:yashrajjagtap1910@gmail.com">
-    <img src="https://img.shields.io/badge/Email-BB9AF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/Yashraj191007">
-    <img src="https://img.shields.io/badge/GitHub-7DCFFF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+</div>
 
-<p align="center">
-  <i>Always learning. Always building. Always improving.</i>
-</p>
+---
 
-<br>
+## GitHub Analytics
 
-<!-- ===================== FOOTER ===================== -->
+<div align="center">
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7DCFFF,50:BB9AF7,100:7AA2F7&height=120&section=footer&animation=twinkling">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:BB9AF7,100:7DCFFF&height=120&section=footer&animation=twinkling">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:BB9AF7,100:7DCFFF&height=120&section=footer&animation=twinkling" alt="Footer">
-  </picture>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yashraj191007&show_icons=true&hide_border=true&theme=tokyonight&bg_color=16161E&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashraj191007&layout=compact&hide_border=true&theme=tokyonight&bg_color=16161E&title_color=7AA2F7&text_color=C0CAF5" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Yashraj191007&theme=tokyonight&hide_border=true&background=16161E&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7DCFFF" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashraj191007&bg_color=16161E&color=C0CAF5&line=7AA2F7&point=BB9AF7&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/yashraj-jagtap-dev">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=16161E"/>
+</a>
+
+<a href="mailto:yashrajjagtap1910@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-7DCFFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=16161E"/>
+</a>
+
+<a href="https://github.com/Yashraj191007">
+<img src="https://img.shields.io/badge/GitHub-Yashraj191007-BB9AF7?style=for-the-badge&logo=github&logoColor=white&labelColor=16161E"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### "Turning ideas into working software."
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:BB9AF7,100:7DCFFF&height=120&section=footer"/>
+
+</div>
